@@ -1,2 +1,10 @@
 # Helloapp
 This repository is made for learning java
+public class UC1 {
+    public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+}
